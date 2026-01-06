@@ -22,7 +22,3 @@
 .row > [class*="col-"] {
   display: flex;
 }
-
-body {
-  background: red !important;
-}
